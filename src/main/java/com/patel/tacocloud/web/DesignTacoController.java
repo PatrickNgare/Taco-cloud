@@ -14,7 +14,6 @@ import org.springframework.web.bind.annotation.SessionAttributes;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
-
 @Slf4j
 @Controller
 @RequestMapping("/design")
